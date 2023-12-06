@@ -14,9 +14,11 @@ credits: true
 
 ## Show Notes
 
-Music: Sunningburst by RelaxSzene, found on [Free Music Archive](https://freemusicarchive.org/home, used under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+#Music: 
 
-Research Sources:
+Sunningburst by RelaxSzene, found on [Free Music Archive](https://freemusicarchive.org/home, used under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+
+#Research Sources:
 
 "Historic Building to House Museum: [FINAL Edition]." The Windsor Star, Jul 23, 1994. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/ newspapers/historic-building-house-museum/docview/254086427/se-2.
 
