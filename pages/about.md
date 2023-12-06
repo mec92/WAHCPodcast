@@ -14,11 +14,11 @@ credits: true
 
 ## Show Notes
 
-#Music: 
+# Music: 
 
 Sunningburst by RelaxSzene, found on [Free Music Archive](https://freemusicarchive.org/home, used under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
-#Research Sources:
+# Research Sources:
 
 "Historic Building to House Museum: [FINAL Edition]." The Windsor Star, Jul 23, 1994. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/ newspapers/historic-building-house-museum/docview/254086427/se-2.
 
@@ -51,5 +51,3 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
