@@ -12,13 +12,13 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## Show Notes
+# Show Notes
 
-# Music: 
+## Music: 
 
 Sunningburst by RelaxSzene, found on [Free Music Archive](https://freemusicarchive.org/home, used under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
-# Research Sources:
+## Research Sources:
 
 "Historic Building to House Museum: [FINAL Edition]." The Windsor Star, Jul 23, 1994. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/ newspapers/historic-building-house-museum/docview/254086427/se-2.
 
@@ -40,7 +40,7 @@ Star, Brian Cross. "Windsor Touted as Site for Provincial Labor Museum." The Win
 
 “Workers’ Museum Opens in Hamilton.” Globe and Mail. The Globe and Mail Inc, 1996.
 
-## About the Collection
+# About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
