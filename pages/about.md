@@ -16,7 +16,7 @@ credits: true
 
 ## Music: 
 
-Sunningburst by RelaxSzene, found on [Free Music Archive](https://freemusicarchive.org/home, used under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+Sunningburst by RelaxSzene, found on [Free Music Archive](https://freemusicarchive.org/home), used under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Research Sources:
 
